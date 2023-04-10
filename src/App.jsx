@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 import UserProfile from './Components/UserProfile';
-import data from './data';
+import {data} from './data';
 
 
 function App() {
