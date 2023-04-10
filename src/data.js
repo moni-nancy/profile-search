@@ -1,5 +1,5 @@
 
-export default [
+export default data [
   {
    "id": "60d0fe4f5311236168a109f5",
    "title": "ms",
